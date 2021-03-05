@@ -1,1 +1,3 @@
-# FIRST_OOP_PROJECT
+# FIRST OOP PROJECT
+
+Vector class implementation 
